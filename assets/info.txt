@@ -1,0 +1,11 @@
+Name : Osama Abu Aysheh
+
+Project Description :
+- project to test your basics flutter the project contains 10 questions that every beginner shoudld know
+- The project contain of mark and a sound to know if you passed or no
+- in the text field there is a toast message if your input is incorrect
+- dialog message if you want to quit the quiz 
+- skip button if you don't know the answer
+- The fonts that is used from google fonts
+- Icon of the app is changed to image from my choose
+- Finally the project is build with MVC architectural pattern 
